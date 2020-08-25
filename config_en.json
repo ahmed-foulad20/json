@@ -104,7 +104,7 @@
       "layout": "bannerImage",
       "items": [
         {
-          "url": "https://inspireui.com",
+          "category": 618,
           "image": "https://user-images.githubusercontent.com/1459805/59846820-12672e80-938b-11e9-8fa6-b331b7db331d.png",
           "padding": 5.0
         }
