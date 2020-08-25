@@ -15,7 +15,7 @@
       "radius": 50.0,
       "items": [
         {
-          "category": 40,
+          "category": 624,
           "image": "https://user-images.githubusercontent.com/1459805/62820029-2e679f00-bb88-11e9-80de-fdf115cfd942.png",
           "name": "Men",
           "colors": [
@@ -25,7 +25,7 @@
           "originalColor": false
         },
         {
-          "category": 41,
+          "category": 625,
           "image": "assets/icons/categories/ic_dress.png",
           "name": "Bags",
           "colors": [
@@ -34,7 +34,7 @@
           ]
         },
         {
-          "category": 40,
+          "category": 614,
           "image": "assets/icons/categories/ic_shorts.png",
           "name": "Blazers",
           "colors": [
@@ -43,7 +43,7 @@
           ]
         },
         {
-          "category": 40,
+          "category": 616,
           "image": "assets/icons/categories/ic_glasses.png",
           "name": "Jackets",
           "colors": [
@@ -52,7 +52,7 @@
           ]
         },
         {
-          "category": 41,
+          "category": 619,
           "name": "Jeans",
           "image": "assets/icons/categories/ic_tie.png",
           "colors": [
@@ -61,7 +61,7 @@
           ]
         },
         {
-          "category": 40,
+          "category": 626,
           "image": "assets/icons/categories/ic_panties.png",
           "colors": [
             "#12B58C",
@@ -84,12 +84,12 @@
       "radius": 2.0,
       "items": [
         {
-          "category": 40,
+          "category": 626,
           "image": "https://user-images.githubusercontent.com/1459805/59846818-12672e80-938b-11e9-8184-5f7bfe66f1a2.png",
           "padding": 15.0
         },
         {
-          "category": 41,
+          "category": 619,
           "image": "https://user-images.githubusercontent.com/1459805/60091575-1f12ca80-976f-11e9-962c-bdccff60d143.png",
           "padding": 15.0
         },
@@ -114,12 +114,12 @@
       "layout": "bannerImage",
       "items": [
         {
-          "category": 40,
+          "category": 625,
           "image": "https://user-images.githubusercontent.com/1459805/59846823-12ffc500-938b-11e9-8d93-65ead3d6b1dd.png",
           "padding": 5.0
         },
         {
-          "category": 41,
+          "category": 618,
           "image": "https://images.unsplash.com/photo-1542362567-b07e54358753?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
           "padding": 5.0,
           "featured": true
@@ -134,14 +134,14 @@
       "name": "accessories Collections",
       "image": "",
       "layout": "threeColumn",
-      "category": 41,
+      "category": 35,
       "isSnapping": true
     },
     {
       "name": "cooking Collections",
       "image": "",
       "layout": "twoColumn",
-      "category": 40,
+      "category": 63,
       "isSnapping": true
     },
 
@@ -149,7 +149,7 @@
       "name": "New Collections",
       "layout": "staggered",
       "limit": 20,
-      "category": 40
+      "category": 35
     }
   ],
   "Setting": {
