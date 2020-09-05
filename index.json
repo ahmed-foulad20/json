@@ -37,17 +37,17 @@
       "height": 0.15,
       "items": [
         {
-          "category": 38,
+          "category": 237,
           "image": "https://trello-attachments.s3.amazonaws.com/5dc3cfb1d013e9228256a65f/1200x800/1bf47a828eb5741c616ce6e9d7a9b45c/background3.jpg",
           "padding": 15.0
         },
         {
-          "category": 32,
+          "category": 232,
           "image": "https://trello-attachments.s3.amazonaws.com/5dc3cfb1d013e9228256a65f/1200x800/48633db8dd93f7e44f397119a24428e9/background6.jpg",
           "padding": 15.0
         },
         {
-          "category": 58,
+          "category": 274,
           "image": "https://trello-attachments.s3.amazonaws.com/5dc3cfb1d013e9228256a65f/1200x800/8c242df41a73e0d73a97ac2c99b2339b/background5.jpg",
           "padding": 15.0
         }
@@ -64,7 +64,7 @@
       "padding": 10.0,
       "items": [
         {
-          "category": 40,
+          "category": 233,
           "image": "assets/icons/categories/cate1.png",
           "colors": [
             "#3CC2BF",
@@ -73,7 +73,7 @@
           "originalColor": true
         },
         {
-          "category": 41,
+          "category": 330,
           "image": "assets/icons/categories/cate2.png",
           "colors": [
             "#3E6AB5",
@@ -82,7 +82,7 @@
           "originalColor": true
         },
         {
-          "category": 40,
+          "category": 323,
           "image": "assets/icons/categories/cate3.png",
           "colors": [
             "#53A2CC",
@@ -91,7 +91,7 @@
           "originalColor": true
         },
         {
-          "category": 40,
+          "category": 354,
           "image": "assets/icons/categories/cate4.png",
           "colors": [
             "#53688A",
@@ -100,7 +100,7 @@
           "originalColor": true
         },
         {
-          "category": 41,
+          "category": 263,
           "image": "assets/icons/categories/cate5.png",
           "colors": [
             "#43506A",
@@ -109,7 +109,7 @@
           "originalColor": true
         },
         {
-          "category": 41,
+          "category": 274,
           "image": "assets/icons/categories/cate6.png",
           "colors": [
             "#12B58C",
@@ -118,7 +118,7 @@
           "originalColor": true
         },
         {
-          "category": 41,
+          "category": 237,
           "image": "assets/icons/categories/cate7.png",
           "colors": [
             "#3CC2BF",
@@ -127,7 +127,7 @@
           "originalColor": true
         },
         {
-          "category": 40,
+          "category": 232,
           "image": "assets/icons/categories/cate8.png",
           "colors": [
             "#3E6AB5",
@@ -146,18 +146,18 @@
       "image": "",
       "layout": "twoColumn",
       "isSnapping": true,
-      "category": 41
+      "category": 232
     },
     {
       "layout": "bannerImage",
       "items": [
         {
-          "category": 32,
+          "category": 330,
           "image": "https://trello-attachments.s3.amazonaws.com/5dc3cfb1d013e9228256a65f/1200x800/255ec2cd585923a96b2c722833f85319/background1.jpg",
           "padding": 5.0
         },
         {
-          "category": 40,
+          "category": 323,
           "image": "https://trello-attachments.s3.amazonaws.com/5dc3cfb1d013e9228256a65f/1200x801/e40b5ebaad35cbb306eef65bcf8953e0/background2.jpg",
           "padding": 5.0,
           "featured": true
@@ -169,7 +169,7 @@
       "name": "New Collections",
       "layout": "staggered",
       "limit": 20,
-      "category": 40
+      "category": 334
     }
   ],
   "Setting": {
