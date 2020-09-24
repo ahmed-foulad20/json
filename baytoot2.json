@@ -1,181 +1,66 @@
 {
-  "Background": {
-    "height": 0.3,
-    "color": "#026DCD",
-    "image": "https://www.mansory.com/sites/default/files/styles/1920x800_fullwidth_car_slider/public/2020-03/mansory_bentley_flying_spur_v12_06.jpg"
-  },
   "HorizonLayout": [
-    {
-      "layout": "logo",
-      "showMenu": true,
-      "showSearch": true
-    },
-    {
-      "layout": "header_text",
-      "fontSize": 23.0,
-      "height": 0.11,
-      "padding": 30.0,
-      "rotate": [
-        "FluxStore MV",
-        "New Arrival",
-        "Cyber Monday Sale"
-      ],
-      "type": "fade"
-    },
-    {
-      "layout": "header_search",
-      "text": "Search for a product"
-    },
     {
       "layout": "bannerImage",
       "isSlider": true,
-      "autoPlay": false,
-      "showNumber": false,
-      "design": "default",
-      "showBackGround": true,
-      "radius": 2.0,
-      "height": 0.15,
+      "showBackground": true,
+      "upHeight": 300.0,
+      "padding": 20.0,
+      "radius": 20.0,
+      "fontSize": 26.0,
       "items": [
         {
-          "category": 38,
-          "image": "https://www.mansory.com/sites/default/files/styles/1920x800_fullwidth_car_slider/public/2020-03/mansory_bentley_flying_spur_v12_06.jpg",
-          "padding": 15.0
+          "category": 24,
+          "background": "https://user-images.githubusercontent.com/1459805/62924786-09b73580-bddb-11e9-94e1-a3bc0c00f35d.png",
+          "image": "https://user-images.githubusercontent.com/1459805/62924791-0a4fcc00-bddb-11e9-91e1-63e3018f6af6.png"
         },
         {
-          "category": 32,
-          "image": "https://www.mansory.com/sites/default/files/styles/1920x800_fullwidth_car_slider/public/2020-03/mansory_bentley_flying_spur_v12_06.jpg",
-          "padding": 15.0
+          "category": 25,
+          "background": "https://user-images.githubusercontent.com/1459805/62925388-73840f00-bddc-11e9-843b-8f0024836aaf.png",
+          "image": "https://user-images.githubusercontent.com/1459805/62924793-0ae86280-bddb-11e9-860e-737e42831e6f.png"
         },
         {
-          "category": 58,
-          "image": "https://www.mansory.com/sites/default/files/styles/1920x800_fullwidth_car_slider/public/2020-03/mansory_bentley_flying_spur_v12_06.jpg",
-          "padding": 15.0
+          "category": 26,
+          "background": "https://user-images.githubusercontent.com/1459805/62924787-09b73580-bddb-11e9-9834-4be535cea5f5.png",
+          "image": "https://user-images.githubusercontent.com/1459805/62924792-0ae86280-bddb-11e9-8532-c9b0cffea5ae.png"
+        },
+        {
+          "category": 27,
+          "background": "https://user-images.githubusercontent.com/1459805/62925389-741ca580-bddc-11e9-85ba-8ba380600883.png",
+          "image": "https://user-images.githubusercontent.com/1459805/62924794-0b80f900-bddb-11e9-9bf0-3cf416c46332.png"
         }
       ]
-    },
-    {
-      "layout": "category",
-      "type": "icon",
-      "wrap": true,
-      "size": 1.2,
-      "radius": 50.0,
-      "noBackground": true,
-      "columns": 4,
-      "padding": 10.0,
-      "items": [
-        {
-          "category": 40,
-          "image": "assets/icons/categories/cate1.png",
-          "colors": [
-            "#3CC2BF",
-            "#3CC2BF"
-          ],
-          "originalColor": true
-        },
-        {
-          "category": 41,
-          "image": "assets/icons/categories/cate2.png",
-          "colors": [
-            "#3E6AB5",
-            "#3E6AB5"
-          ],
-          "originalColor": true
-        },
-        {
-          "category": 40,
-          "image": "assets/icons/categories/cate3.png",
-          "colors": [
-            "#53A2CC",
-            "#53A2CC"
-          ],
-          "originalColor": true
-        },
-        {
-          "category": 40,
-          "image": "assets/icons/categories/cate4.png",
-          "colors": [
-            "#53688A",
-            "#53688A"
-          ],
-          "originalColor": true
-        },
-        {
-          "category": 41,
-          "image": "assets/icons/categories/cate5.png",
-          "colors": [
-            "#43506A",
-            "#43506A"
-          ],
-          "originalColor": true
-        },
-        {
-          "category": 41,
-          "image": "assets/icons/categories/cate6.png",
-          "colors": [
-            "#12B58C",
-            "#12B58C"
-          ],
-          "originalColor": true
-        },
-        {
-          "category": 41,
-          "image": "assets/icons/categories/cate7.png",
-          "colors": [
-            "#3CC2BF",
-            "#3CC2BF"
-          ],
-          "originalColor": true
-        },
-        {
-          "category": 40,
-          "image": "assets/icons/categories/cate8.png",
-          "colors": [
-            "#3E6AB5",
-            "#3E6AB5"
-          ],
-          "originalColor": true
-        }
-      ]
-    },
-    {
-      "name": "Recent View",
-      "layout": "recentView"
-    },
-    {
-      "name": "Latest Products",
-      "image": "",
-      "layout": "twoColumn",
-      "isSnapping": true,
-      "category": 41
     },
     {
       "layout": "bannerImage",
       "items": [
         {
-          "category": 32,
-          "image": "https://scontent.fbah1-1.fna.fbcdn.net/v/t1.0-9/120187903_125100379319051_4357941132915151131_n.jpg?_nc_cat=110&_nc_sid=8024bb&_nc_ohc=EW_KHxZxV9oAX9kDvDE&_nc_ht=scontent.fbah1-1.fna&oh=8abf633d5bc1817cbd2be07aa960ba19&oe=5F93DB1A",
-          "padding": 5.0
-        },
-        {
-          "category": 40,
-          "image": "https://www.mansory.com/sites/default/files/styles/1920x800_fullwidth_car_slider/public/2020-03/mansory_bentley_flying_spur_v12_06.jpg",
-          "padding": 5.0,
-          "featured": true
+          "category": 28,
+          "image": "https://user-images.githubusercontent.com/1459805/62924800-0cb22600-bddb-11e9-8aa0-44782a5cabf2.png",
+          "padding": 15.0,
+          "radius": 20.0
         }
       ]
     },
-
     {
-      "name": "New Collections",
-      "layout": "staggered",
-      "limit": 20,
-      "category": 40
+      "layout": "bannerImage",
+      "items": [
+        {
+          "category": 29,
+          "image": "https://user-images.githubusercontent.com/1459805/62924796-0b80f900-bddb-11e9-98a6-8bc87bd4caaa.png",
+          "padding": 15.0,
+          "radius": 20.0
+        }
+      ]
     }
   ],
+  "VerticalLayout": {
+    "layout": "menu",
+    "name": "Our Products"
+  },
   "Setting": {
     "MainColor": "#3FC1BE",
-    "ProductListLayout": "list",
-    "StickyHeader": false
+    "ProductListLayout": "list"
   },
   "TabBar": [
     {
@@ -197,35 +82,7 @@
     },
     {
       "layout": "profile",
-      "icon": "assets/icons/tabs/icon-user.png",
-      "showChat": true
+      "icon": "assets/icons/tabs/icon-user.png"
     }
-  ],
-  "searchSuggestion": [
-    "man",
-    "dress",
-    "Stitch",
-    "ma"
-  ],
-  "OnBoarding": {
-    "data": [{
-      "title": "Welcome to FluxStore",
-      "image": "assets/images/fogg-delivery-1.png",
-      "desc": "Fluxstore is on the way to serve you. ",
-      "background": "#FFF3F2"
-    },
-      {
-        "title": "Connect Surrounding World",
-        "image": "assets/images/fogg-uploading-1.png",
-        "desc": "See all things happening around you just by a click in your phone. Fast, convenient and clean.",
-        "background": "#F2FFFC"
-      },
-      {
-        "title": "Let's Get Started",
-        "image": "fogg-order-completed.png",
-        "desc": "Waiting no more, let's see what we get!",
-        "background": "#F9F2FF"
-      }
-    ]
-  }
+  ]
 }
